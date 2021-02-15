@@ -1,6 +1,7 @@
 # CreativeEmbeddedSystemsProj2
 
 Description: This program is for a fortune telling game based on the origami fortune tellers I played with as a kid! 
+Video Link: https://www.youtube.com/watch?v=OAaY2MoHrms&feature=youtu.be
 
 How To Play:
 1. flip the switch to view the color options for your first selection.
@@ -20,6 +21,7 @@ Hardware Used:
 -cardboard (for the enclosure)
 
 Wirirng: 
+
 joystick— SW to GPIO14, VRY to GPIO12, VRX GPIO13, 5v to 5v, GND to GND (5 female to male wires used)
 
 yellow button— one prong is connected to GPIO 25 and the other to GND (two male to male wires used)
