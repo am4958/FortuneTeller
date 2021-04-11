@@ -1,4 +1,4 @@
-# CreativeEmbeddedSystemsProj2
+# Fortune Teller
 
 Description: This program is for a fortune telling game based on the origami fortune tellers I played with as a kid! 
 Video Link: https://www.youtube.com/watch?v=OAaY2MoHrms&feature=youtu.be
