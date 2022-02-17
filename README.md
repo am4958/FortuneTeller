@@ -36,5 +36,5 @@ How To:
 2. Upload the code via the Arduino IDE to your esp32. I ran into many technical issues with this so I downloaded the Arduino ide on the Raspberry Pi to upload the code while plugged in to get around technical errors. Ensure the baud rate on the serial monitor matches the 9600 in the code. You may need to lower your upload speed to the slowest possible speed. 
 3. Plug in the Raspberry Pi to power and your monitor and connect the esp32 to the raspberry pi via USB. 
 4.Check by using the serial name print statement for the correct port number to input on the line of the processing code commented #YOUR PORT. Put this port number in place of mine. 
-5. Build and enclosure if you so desire! Mine is built with an old keyboard box that I painted and used an exacto knife to make button shaped hole.
+5. Build and enclosure if you so desire! Mine is built with an old keyboard box that I painted and used an exacto knife to make button shaped holes.
 6. Run the processing code and enjoy!
